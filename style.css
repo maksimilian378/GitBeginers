@@ -1,3 +1,21 @@
 body {
     background: purple;
 }
+
+.left-item {
+    display: block;
+    position: relative;
+    width: 200px;
+    height: 200px;
+    background: white;
+    margin: 0 auto;
+}
+
+.opana {
+    display: block;
+    position: relative;
+    width: 200px;
+    height: 100px;
+    background: white;
+    margin: 0 auto;
+}
